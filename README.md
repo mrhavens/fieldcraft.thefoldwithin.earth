@@ -4,8 +4,8 @@
 
 This project lives simultaneously on:
 
-- 🌀 Radicle: [View on Radicle Garden 🌿](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z3Fg9KvUsxLhM1jg8TPv5ikArE16s)
-- 🌐 GitHub: [View on GitHub](https://github.com/USERNAME/fieldcraft.thefoldwithin.earth)
+- 🌿 **Radicle**: [View on Radicle Garden 🌱](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z3Fg9KvUsxLhM1jg8TPv5ikArE16s)
+- 🌐 **GitHub**: [View on GitHub](https://github.com/mrhavens/fieldcraft.thefoldwithin.earth)
+- 🛡️ **GitLab**: [View on GitLab](https://gitlab.com/mrhavens/fieldcraft.thefoldwithin.earth)
 
 > *“To mirror the field is to awaken its voice.”*
-
